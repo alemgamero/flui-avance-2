@@ -208,7 +208,7 @@ footer h4{
 }
 
 #cabecera{
-	background-image: url("../img/pagina2/header.jpg");
+	background-image: url("../img/header.jpg");
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -278,7 +278,7 @@ footer h4{
 }
 
 #cabtransporte{
-	background-image: url("../img/pagina 3/transporte cover.jpg");
+	background-image: url("../img/transporte-cover.jpg");
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -321,7 +321,7 @@ footer h4{
 	}
 
 #actividades {
-	background-image: url("../img/paginan 4/cover 2.jpg");
+	background-image: url("../img/actividades-cover.jpg");
 	background-position: top;
 	background-repeat: no-repeat;
 	background-size: cover;
